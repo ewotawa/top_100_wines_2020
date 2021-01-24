@@ -1,0 +1,18 @@
+# Directories #
+.ipynb_checkpoints/
+images/
+
+# Files #
+Top_100_Lists_notated.odt
+Top_100_Lists_reviews.odt
+Top_100_Lists.ods
+Top_100_Lists.odt
+.~lock.Top_100_Lists.ods#
+.~lock.CSV_Wines.csv#
+CSV_GeoCache.csv
+CSV_GeoList.csv
+CSV_Wines.csv
+GeoCache.csv
+Wine_Hier00.csv
+Wine_Hier01.csv
+emoji_list.csv
