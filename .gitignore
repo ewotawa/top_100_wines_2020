@@ -1,6 +1,7 @@
 # Directories #
 .ipynb_checkpoints/
 images/
+shapefiles/
 
 # Files #
 Top_100_Lists_notated.odt
